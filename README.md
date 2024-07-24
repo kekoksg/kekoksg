@@ -29,6 +29,22 @@ Sou um profissional com 3 anos de experiência no desenvolvimento FullStack e te
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## Experiência Profissional
+
+### Desenvolvedor Full Stack na SEFAZ-MA
+
+- out de 2022 - jan de 2024 · 1 ano 4 meses
+- Maranhão, Brasil · Remota
+
+Contribuí ativamente em projetos variados na Sefaz do Maranhão, abrangendo ambientes legados e atuais. Experiência com Java EE nas versões 6, 8, 11 e 17 e ampla gama de tecnologias, incluindo JSP, JSF, Angular, API REST, JDBC, JPA, Spring (Boot, Data e Security) e Hibernate. Habilidade em adaptação a contextos diversos, garantindo uma abordagem flexível e eficaz. Execução eficiente na otimização de consultas SQL e administração de objetos em bancos de dados Oracle, com ênfase no uso do PL/SQL. Participei do desenvolvimento, aplicação e aprimoramento de procedures. Administração efetiva de repositórios GIT para controle de versão ágil. Elaboração de cronogramas detalhados, assegurando entrega pontual de soluções. Aplicação de práticas ágeis para uma abordagem organizada e transparente no desenvolvimento.
+
+### Desenvolvedor Web Front End na Sisdado
+
+- jun de 2021 - out de 2022 · 1 ano 5 meses
+- Araranguá, Santa Catarina, Brasil · Presencial
+
+Desenvolvimento e implementação de layouts responsivos utilizando JavaScript, HTML e CSS, integrados ao CRM Siscore através do framework corporativo da empresa. Responsável pelo ajuste e manutenção contínua de sites, assegurando a funcionalidade e o design consistentes. Proficiente no uso avançado de ferramentas como GIT para controle de versão, Photoshop e Illustrator para criação e edição de recursos visuais, garantindo uma abordagem completa no desenvolvimento de projetos.
+
 ## Projetos em Destaque
 
 <div style="display: flex; gap: 5rem">
@@ -66,22 +82,6 @@ Este projeto é um web scraping que simplifica a busca por oportunidades de trab
 
 </div>
 </div>
-
-## Experiência Profissional
-
-### Desenvolvedor Full Stack na SEFAZ-MA
-
-- out de 2022 - jan de 2024 · 1 ano 4 meses
-- Maranhão, Brasil · Remota
-
-Contribuí ativamente em projetos variados na Sefaz do Maranhão, abrangendo ambientes legados e atuais. Experiência com Java EE nas versões 6, 8, 11 e 17 e ampla gama de tecnologias, incluindo JSP, JSF, Angular, API REST, JDBC, JPA, Spring (Boot, Data e Security) e Hibernate. Habilidade em adaptação a contextos diversos, garantindo uma abordagem flexível e eficaz. Execução eficiente na otimização de consultas SQL e administração de objetos em bancos de dados Oracle, com ênfase no uso do PL/SQL. Participei do desenvolvimento, aplicação e aprimoramento de procedures. Administração efetiva de repositórios GIT para controle de versão ágil. Elaboração de cronogramas detalhados, assegurando entrega pontual de soluções. Aplicação de práticas ágeis para uma abordagem organizada e transparente no desenvolvimento.
-
-### Desenvolvedor Web Front End na Sisdado
-
-- jun de 2021 - out de 2022 · 1 ano 5 meses
-- Araranguá, Santa Catarina, Brasil · Presencial
-
-Desenvolvimento e implementação de layouts responsivos utilizando JavaScript, HTML e CSS, integrados ao CRM Siscore através do framework corporativo da empresa. Responsável pelo ajuste e manutenção contínua de sites, assegurando a funcionalidade e o design consistentes. Proficiente no uso avançado de ferramentas como GIT para controle de versão, Photoshop e Illustrator para criação e edição de recursos visuais, garantindo uma abordagem completa no desenvolvimento de projetos.
 
 ## Educação
 
