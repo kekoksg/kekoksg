@@ -36,7 +36,16 @@ Sou um profissional com 3 anos de experiência no desenvolvimento FullStack e te
 - out de 2022 - jan de 2024 · 1 ano 4 meses
 - Maranhão, Brasil · Remota
 
-Contribuí ativamente em projetos variados na Sefaz do Maranhão, abrangendo ambientes legados e atuais. Experiência com Java EE nas versões 6, 8, 11 e 17 e ampla gama de tecnologias, incluindo JSP, JSF, Angular, API REST, JDBC, JPA, Spring (Boot, Data e Security) e Hibernate. Habilidade em adaptação a contextos diversos, garantindo uma abordagem flexível e eficaz. Execução eficiente na otimização de consultas SQL e administração de objetos em bancos de dados Oracle, com ênfase no uso do PL/SQL. Participei do desenvolvimento, aplicação e aprimoramento de procedures. Administração efetiva de repositórios GIT para controle de versão ágil. Elaboração de cronogramas detalhados, assegurando entrega pontual de soluções. Aplicação de práticas ágeis para uma abordagem organizada e transparente no desenvolvimento.
+• Desenvolvimento e manutenção do back-end de sistemas Java EE com Maven nas versões 6, 8 e 17, utilizando o Spring (com Spring
+Boot e Spring Data), Apache Struts e Servlet.
+• Criação e administração de objetos em bancos de dados (tabelas, views, procedures e functions) no Oracle Database (PL/SQL).
+• Utilização de JDBC, JPA e Hibernate para acesso a dados e persistência.
+• Construção e manutenção de interfaces web, utilizando JSF (PrimeFaces), JSP, Angular (PrimeNg), HTML, CSS, JavaScript e TypeScript.
+• Criação, manutenção e gestão de repositórios (Git e GitLab), administração de branches e auxílio na análise de pull requests.
+• Geração de relatórios com Jasper Reports, incluindo criação e edição de relatórios Jasper utilizando a ferramenta iReport.
+• Utilização de práticas ágeis (Scrum) para uma abordagem organizada e transparente para garantir o desenvolvimento contínuo.
+• Utilização do Redmine para elaboração de cronogramas detalhados, acompanhamento de projetos, incluindo retrospectivas de sprint,
+gestão de prazos e orçamentos, garantindo conformidade com requisitos e entrega pontual de soluções.
 
 ### Desenvolvedor Web Front End na Sisdado
 
