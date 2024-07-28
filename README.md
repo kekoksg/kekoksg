@@ -37,15 +37,15 @@ Sou um profissional com 3 anos de experiência no desenvolvimento FullStack e te
 - Maranhão, Brasil · Remota
 
 • Desenvolvimento e manutenção do back-end de sistemas Java EE com Maven nas versões 6, 8 e 17, utilizando o Spring (com Spring
-Boot e Spring Data), Apache Struts e Servlet.
-• Criação e administração de objetos em bancos de dados (tabelas, views, procedures e functions) no Oracle Database (PL/SQL).
-• Utilização de JDBC, JPA e Hibernate para acesso a dados e persistência.
-• Construção e manutenção de interfaces web, utilizando JSF (PrimeFaces), JSP, Angular (PrimeNg), HTML, CSS, JavaScript e TypeScript.
-• Criação, manutenção e gestão de repositórios (Git e GitLab), administração de branches e auxílio na análise de pull requests.
-• Geração de relatórios com Jasper Reports, incluindo criação e edição de relatórios Jasper utilizando a ferramenta iReport.
-• Utilização de práticas ágeis (Scrum) para uma abordagem organizada e transparente para garantir o desenvolvimento contínuo.
+Boot e Spring Data), Apache Struts e Servlet.</br>
+• Criação e administração de objetos em bancos de dados (tabelas, views, procedures e functions) no Oracle Database (PL/SQL).</br>
+• Utilização de JDBC, JPA e Hibernate para acesso a dados e persistência.</br>
+• Construção e manutenção de interfaces web, utilizando JSF (PrimeFaces), JSP, Angular (PrimeNg), HTML, CSS, JavaScript e TypeScript.</br>
+• Criação, manutenção e gestão de repositórios (Git e GitLab), administração de branches e auxílio na análise de pull requests.</br>
+• Geração de relatórios com Jasper Reports, incluindo criação e edição de relatórios Jasper utilizando a ferramenta iReport.</br>
+• Utilização de práticas ágeis (Scrum) para uma abordagem organizada e transparente para garantir o desenvolvimento contínuo.</br>
 • Utilização do Redmine para elaboração de cronogramas detalhados, acompanhamento de projetos, incluindo retrospectivas de sprint,
-gestão de prazos e orçamentos, garantindo conformidade com requisitos e entrega pontual de soluções.
+gestão de prazos e orçamentos, garantindo conformidade com requisitos e entrega pontual de soluções.</br>
 
 ### Desenvolvedor Web Front End na Sisdado
 
