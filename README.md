@@ -36,16 +36,14 @@ Sou um profissional com 3 anos de experiência no desenvolvimento FullStack e te
 - out de 2022 - jan de 2024 · 1 ano 4 meses
 - Maranhão, Brasil · Remota
 
-• Desenvolvimento e manutenção do back-end de sistemas Java EE com Maven nas versões 6, 8 e 17, utilizando o Spring (com Spring
-Boot e Spring Data), Apache Struts e Servlet.</br>
-• Criação e administração de objetos em bancos de dados (tabelas, views, procedures e functions) no Oracle Database (PL/SQL).</br>
-• Utilização de JDBC, JPA e Hibernate para acesso a dados e persistência.</br>
-• Construção e manutenção de interfaces web, utilizando JSF (PrimeFaces), JSP, Angular (PrimeNg), HTML, CSS, JavaScript e TypeScript.</br>
-• Criação, manutenção e gestão de repositórios (Git e GitLab), administração de branches e auxílio na análise de pull requests.</br>
-• Geração de relatórios com Jasper Reports, incluindo criação e edição de relatórios Jasper utilizando a ferramenta iReport.</br>
-• Utilização de práticas ágeis (Scrum) para uma abordagem organizada e transparente para garantir o desenvolvimento contínuo.</br>
-• Utilização do Redmine para elaboração de cronogramas detalhados, acompanhamento de projetos, incluindo retrospectivas de sprint,
-gestão de prazos e orçamentos, garantindo conformidade com requisitos e entrega pontual de soluções.</br>
+• Desenvolvimento e manutenção de back-end em Java EE (versões 6, 8, 17) com Maven, utilizando Spring (Spring Boot, Spring Data), Apache Struts e Servlet.</br>
+• Criação e administração de objetos em Oracle Database (PL/SQL), incluindo tabelas, views, procedures e functions.</br>
+• Acesso a dados e persistência com JDBC, JPA e Hibernate.</br>
+• Desenvolvimento de interfaces web com JSF (PrimeFaces), JSP, Angular (PrimeNg), HTML, CSS, JavaScript e TypeScript.</br>
+• Gestão de repositórios Git/GitLab, administração de branches e análise de pull requests.</br>
+• Criação e edição de relatórios Jasper Reports utilizando iReport.</br>
+• Aplicação de práticas ágeis (Scrum) para desenvolvimento contínuo e organizado.</br>
+• Uso do Redmine para cronogramas, acompanhamento de projetos e gestão de prazos e orçamentos.</br>
 
 ### Desenvolvedor Web Front End na Sisdado
 
