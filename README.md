@@ -50,9 +50,9 @@ Sou um profissional com 3 anos de experiência no desenvolvimento FullStack e te
 - jun de 2021 - out de 2022 · 1 ano 5 meses
 - Araranguá, Santa Catarina, Brasil · Presencial
 
-• Desenvolvimento e implementação de layouts responsivos com JavaScript, HTML e CSS, integrados ao CRM Siscore via framework corporativo.
-• Ajuste e manutenção contínua de sites, garantindo funcionalidade e design consistentes.
-• Uso avançado de Git para controle de versão e Photoshop/Illustrator para criação e edição de recursos visuais.
+• Desenvolvimento e implementação de layouts responsivos com JavaScript, HTML e CSS, integrados ao CRM Siscore via framework corporativo.</br>
+• Ajuste e manutenção contínua de sites, garantindo funcionalidade e design consistentes.</br>
+• Uso avançado de Git para controle de versão e Photoshop/Illustrator para criação e edição de recursos visuais.</br>
 
 ## Projetos em Destaque
 
