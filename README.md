@@ -9,7 +9,7 @@
 
 ## Sobre mim
 
-Profissional com 3 anos de experiência em desenvolvimento FullStack, focado em atuar como Back-End Java, com experiência em Java EE nas versões 6, 8 e 17, JSP, JSF, Angular, Hibernate, JPA, e frameworks Spring (Boot, Data, Security), além de experiência com PL/SQL no Oracle Database e conhecimento em MySQL.
+Desenvolvedor Full-Stack especializado no ecossistema Java (Spring Boot) e Angular. Experiência prática na construção e manutenção de sistemas de alta complexidade e rigor técnico em âmbito governamental, traduzindo regras de negócio críticas em arquiteturas seguras e escaláveis. Focado em engenharia de software ponta a ponta, design de APIs REST e modernização de processos operacionais para resolução de gargalos de negócios.
 
 ### Habilidades
 ![Java EE](https://img.shields.io/badge/Java_EE-007396?style=for-the-badge&logo=javaee&logoColor=white)
